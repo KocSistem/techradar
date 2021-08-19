@@ -48,7 +48,7 @@ Eğer bir şeylerin eksik olduğunu düşünüyorsanız, sebebi aşağıdakilerd
 ## **KoçSistem Radar vs Thoughtworks Radar**
 Thoughtworks yılın her çeyreğinde yayınladığı radarında o çeyreğe ait güncellemeleri paylaşıyor. Örneğin bir araç assess'ten adopt'a geçtiyse bu araç radara giriyor. Fakat yine örnek vermek gerekirse; önceki çeyrekte adopt'ta veya assess'te olan bir araç herhangi bir değişim yaşamadıysa o çeyreğin radarında görünmüyor. Biz KoçSistem radarını hazırlarken değerlendirdiğimiz her bir bileşeni tüm çeyreklerde gösteriyoruz. Böylece değerlendirdiğimiz tüm bileşenleri güncel radarda görebiliyorsunuz.
 
-KoçSistem Technology Radar: http://techradar.kocsistem.com.tr 
+KoçSistem Technology Radar: https://techradar.kocsistem.com.tr
 
 Thoughtworks Technology Radar: https://www.thoughtworks.com/radar
 
