@@ -2,7 +2,7 @@
 
 # KoçSistem Technology Radar
 
-![alt text](https://github.com/KocSistemMimari/techradar/blob/master/images/koc_sistem.png)
+![alt text](https://github.com/KocSistem/techradar/blob/main/images/koc_sistem.png)
 
 Teknoloji endüstrisi için yeni teknolojiler konusunda güncel kalmak büyük zorluktur. Technology Radar bu zorluğu ortadan kaldırmak için gruplama ve standartlaştırma yöntemleri ile yol gösterici olmaktadır.
 Bir teknoloji stratejisi çoğunlukla iş stratejisinin merkezidir. Şirketler için teknoloji tercih etmek planlı yaklaşım gerektirir.
@@ -17,7 +17,7 @@ Technology Radar, ThoughtWorks firması tarafından açık kaynaklı olarak pay
 Biz de KoçSistem Kurumsal Mimari ekibi olarak değişen teknoloji, araçlar ve teknikleri içeren kendi Technology Radar uygulamamızı sizlere sunmaktan gurur duyuyoruz.
 
 
-![alt text](https://github.com/KocSistemMimari/techradar/blob/master/images/image2020-11-25_17-54-31.png)
+![alt text](https://github.com/KocSistem/techradar/blob/main/images/image2020-11-25_17-54-31.png)
 
 
 ## **KoçSistem - Technology Radar' ı nasıl oluşturuyoruz ?**
